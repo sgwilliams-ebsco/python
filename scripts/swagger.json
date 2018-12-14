@@ -72965,7 +72965,8 @@
         "disruptionsAllowed",
         "currentHealthy",
         "desiredHealthy",
-        "expectedPods"
+        "expectedPods",
+        "disruptedPods"
       ],
       "properties": {
         "currentHealthy": {
